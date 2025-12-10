@@ -1,4 +1,10 @@
-35 $0.01 doubled each day for a month:
+echo "# 4" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/4zzlm7/4.git
+git push -u origin main35 $0.01 doubled each day for a month:
 
 day 1: $0.01
 day 2: $0.02
