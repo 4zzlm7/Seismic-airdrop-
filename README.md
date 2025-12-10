@@ -1,1 +1,1 @@
-# Seismic-airdrop-
+no more airdrop # Seismic-airdrop-
